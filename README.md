@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarishB14
 - 👀 I’m interested in ... learning about coding.
 - 🌱 I’m currently learning ... software engineering.
-- 💞️ I’m looking to collaborate on ... learning about coding
+- 💞️ I’m looking to collaborate on ... learning about coding.
 - 📫 How to reach me ... via Slack.
 
 <!---
